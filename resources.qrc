@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/images/icon">
+        <file>qt images/about.jpeg</file>
+        <file>qt images/copy.jpeg</file>
+        <file>qt images/cut.jpeg</file>
+        <file>qt images/edit.jpeg</file>
+        <file>qt images/file icon.jpeg</file>
+        <file>qt images/login_image.jpeg</file>
+        <file>qt images/open.jpeg</file>
+        <file>qt images/redo.jpeg</file>
+        <file>qt images/save as.png</file>
+        <file>qt images/save icon.jpeg</file>
+        <file>qt images/undo.jpeg</file>
+        <file>qt images/new file.jpeg</file>
+        <file>qt images/background color.jpeg</file>
+        <file>qt images/download.jpeg</file>
+        <file>qt images/font.jpeg</file>
+        <file>qt images/highlight.jpeg</file>
+        <file>qt images/text color.jpeg</file>
+    </qresource>
+</RCC>
