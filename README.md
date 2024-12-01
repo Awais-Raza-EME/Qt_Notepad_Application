@@ -32,4 +32,4 @@ This project is a basic Notepad-style application created using **Qt Framework**
 - **mainwindow.cpp/.h**: Handles the functionality and events for the main window.
 
 ---
-Note:I have also added the application file.So, you can just open it and run it to check it how it should look when you run it in qt.
+Note:I have also added the application zip file.So, you can just open it extract and run it to find the application look.
